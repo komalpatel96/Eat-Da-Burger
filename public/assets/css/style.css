@@ -1,8 +1,27 @@
+body{
+	text-align: center;
+	font-family: 'Rye', cursive;
+}
 
-li {
+button {
+	background-color: #e7e7e7;
+	border-radius: 8px;
+}
+
+
+.eatBurger{
+	background: red;
+}
+
+.eatenBurger{
+	background: green;
+}
+
+.li {
   padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+  margin: 10px;
+  background: #bfbfbf;
+
 }
 
 .label {
